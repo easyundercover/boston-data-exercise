@@ -1,1 +1,2 @@
-# Template for Machine Learning projects
+# Boston dataset
+Pre-processing and modelling
